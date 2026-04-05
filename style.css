@@ -165,3 +165,22 @@ i {
     font-style: italic;
     color: #034d34;
 }
+.share-box {
+    margin-top: 30px;
+    padding: 15px;
+    border-top: 2px solid #eee;
+}
+.share-box a, .share-box {
+    padding: 8px 12px;
+    border-radius: 5px;
+    margin-top: 20px;
+    background-color: #2196f3;
+    color: white;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    display: block;
+}
+.share-box a:hover, .share-box button:hover {
+    background-color: #1565c0;
+}
